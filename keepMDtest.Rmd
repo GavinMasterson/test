@@ -2,7 +2,9 @@
 title: "keep .md test"
 author: "Gavin Masterson"
 date: "20/06/2019"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
