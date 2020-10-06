@@ -1,2 +1,2 @@
 # test
-Repo for the HappywithR book
+Repo for the HappyGitwithR book
